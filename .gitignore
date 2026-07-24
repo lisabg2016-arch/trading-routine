@@ -1,0 +1,6 @@
+# Nunca subir credenciales al repo. Las claves van en variables de entorno del entorno en la nube.
+.env
+.env.*
+*.key
+secrets*
+notas_personales*
