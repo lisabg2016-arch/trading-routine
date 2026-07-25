@@ -10,7 +10,7 @@ Trabajo:
 1. Revisa el contexto de mercado (SPY/QQQ, tendencia, si SPY está sobre/bajo su media de 200 días → régimen).
 2. Para los símbolos de la watchlist, busca catalizadores/noticias del día (usa web/Perplexity si está disponible).
 3. Redacta 0–3 ideas de trade candidatas para la apertura, cada una con: tesis corta, entrada aproximada, stop, y por qué respeta los guardarraíles.
-4. Escribe todo en `memory/diario_investigacion.md` (con fecha).
-5. Haz git add + commit + push a `main`.
+4. Registra un resumen conciso de tu investigación como UNA fila en el diario de Google Sheets (Tipo=investigacion), según `memory/diario-sheet.md`.
+5. NO uses git push (el repo está en solo-lectura, falla con 403). El diario persiste en el Google Sheet.
 
 No coloques órdenes. Notifícame SOLO si hay algo urgente (p. ej. una posición abierta con noticia grave). Si no, deja el trabajo en el diario.

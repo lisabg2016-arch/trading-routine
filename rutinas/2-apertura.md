@@ -10,7 +10,7 @@ Trabajo:
 1. Revisa las ideas del `diario_investigacion.md` de hoy.
 2. Para cada idea que AÚN cumpla todos los guardarraíles (máx 5% por posición, máx 5 abiertas, máx 3 nuevas/semana, régimen SPY>200d, etc.): coloca una orden de compra en Alpaca y una orden de **stop** asociada (~-8% o bajo soporte).
 3. Si ninguna idea cumple, NO operes (es válido).
-4. Actualiza `memory/diario_operaciones.md` (cada trade con tesis y stop) y `memory/portafolio.md` (posiciones y efectivo reales de Alpaca).
-5. git add + commit + push a `main`.
+4. Por CADA operación colocada, registra una fila en el diario de Google Sheets (Tipo=operacion; incluye símbolo, acción, cantidad, precio, stop en Notas y tesis), según `memory/diario-sheet.md`.
+5. NO uses git push (solo-lectura). El estado real de posiciones/efectivo se consulta en vivo desde Alpaca cada rutina; el diario persiste en el Google Sheet.
 
 Notifícame SOLO si colocaste una operación (resumen corto de qué compraste, cantidad, stop). Si no operaste, no hace falta aviso.

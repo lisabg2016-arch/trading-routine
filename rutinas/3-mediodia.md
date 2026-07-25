@@ -10,7 +10,7 @@ Trabajo:
 1. Trae posiciones reales con `GET /v2/positions`.
 2. Para cada posición: si rompió su tesis o cayó fuerte (p. ej. < -7% intradía y sin razón), considera cortarla. Si es ganadora, **sube el trailing stop** (solo hacia arriba, nunca lo bajes) para proteger ganancia sin cortar al ganador antes de tiempo.
 3. NO abras posiciones nuevas en esta rutina (eso es de la apertura).
-4. Actualiza `memory/portafolio.md` y `memory/diario_operaciones.md` con cualquier cambio.
-5. git add + commit + push a `main`.
+4. Si vendiste algo o ajustaste un stop, registra una fila en el diario de Google Sheets (Tipo=gestion), según `memory/diario-sheet.md`.
+5. NO uses git push (solo-lectura). El estado real viene de Alpaca en vivo; el diario persiste en el Google Sheet.
 
 Notifícame solo si vendiste algo o cambiaste un stop de forma relevante.

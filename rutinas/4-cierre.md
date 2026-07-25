@@ -10,8 +10,8 @@ Trabajo:
 1. Trae `GET /v2/account` y `/v2/positions`.
 2. Calcula el valor de la cuenta, P&L del día, y el rendimiento **vs SPY** desde el inicio.
 3. Verifica que cada posición abierta tenga su stop activo.
-4. Actualiza `memory/portafolio.md` con el estado de cierre y escribe un **resumen del día** (qué se hizo, P&L, vs SPY, cualquier problema).
-5. git add + commit + push a `main`.
-6. Envía el resumen del día por el canal de notificación (email/Telegram si hay variable configurada; si no, deja el resumen en `portafolio.md`).
+4. Registra una fila de cierre en el diario de Google Sheets (Tipo=cierre): valor de cuenta, P&L del día en P&L, rendimiento vs SPY en vs.SPY, y un resumen en Notas. Ver `memory/diario-sheet.md`.
+5. Envía una **notificación** con el resumen del día.
+6. NO uses git push (solo-lectura). El diario persiste en el Google Sheet.
 
 Sé honesto: si algo falló o no se pudo, dilo en el resumen.
