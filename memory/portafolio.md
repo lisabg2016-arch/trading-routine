@@ -9,8 +9,8 @@
 - vs SPY (desde inicio): 0.00%
 
 ## Última actualización
-- Fecha/hora: (pendiente — primera ejecución)
-- Valor de la cuenta: —
-- P&L del día: —
-- Posiciones: —
-- Notas: proyecto recién creado; aún sin operar.
+- Fecha/hora: 2026-07-27 (rutina mediodía)
+- Valor de la cuenta: $100,000 (equity), cash $100,000
+- P&L del día: $0.00
+- Posiciones: ninguna
+- Notas: sin posiciones abiertas que gestionar; no se abren nuevas en esta rutina.
