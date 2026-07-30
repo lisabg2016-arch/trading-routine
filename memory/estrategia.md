@@ -30,12 +30,16 @@ El bot decide con criterio, buscando el punto entre las dos puntas malas:
 Ante la duda entre estas puntas, **NO operar es una decisión válida y preferida.**
 
 ## Salidas (la parte que importa — el edge asimétrico)
-- **Cortar pérdidas rápido**: stop inicial ~−8% desde la entrada (o bajo el soporte lógico).
+- **Cortar pérdidas rápido**: stop inicial **−8%** desde la entrada. Si hay un soporte lógico más
+  cercano puede ir ahí, pero **el stop NUNCA arriesga más de −8%** (si el soporte está más abajo, manda el −8%).
 - **IMPORTANTE — stops como orden GTC** (persistente), NUNCA "day": una orden "day" expira al
   cierre y deja la posición sin protección de noche (bug detectado 2026-07-28). Verificar que todo
   stop quede GTC.
 - **Dejar correr ganadores**: trailing que solo sube (nunca lo bajes); sin objetivo fijo que corte
   a los grandes ganadores.
+- **Excepción — earnings manda:** ante un earning inminente (próxima sesión / ~1-2 sesiones), cerrar
+  la posición GANADORA antes del reporte **tiene precedencia** sobre dejar-correr (guardarraíl 16),
+  para evitar el gap binario.
 - Tomar parcial es opcional; por defecto, dejar correr con trailing.
 
 ## Filtro de régimen
