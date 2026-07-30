@@ -8,7 +8,7 @@ Credenciales en variables de entorno: `ALPACA_API_KEY_ID`, `ALPACA_API_SECRET_KE
 
 Trabajo:
 1. Trae posiciones reales con `GET /v2/positions`.
-2. Para cada posición: si rompió su tesis o cayó fuerte (p. ej. < -7% intradía y sin razón), considera cortarla. Si es ganadora, **sube el trailing stop** (solo hacia arriba, nunca lo bajes) para proteger ganancia sin cortar al ganador antes de tiempo.
+2. Para cada posición: si rompió su tesis o cayó fuerte (p. ej. < -7% intradía y sin razón), considera cortarla. Si es ganadora, **sube el trailing stop** (solo hacia arriba, nunca lo bajes) para proteger ganancia sin cortar al ganador antes de tiempo. **Todo stop debe ser GTC (`time_in_force: "gtc"`), nunca "day"**; si al ajustar recreas el stop, confirma con `GET /v2/orders` que quedó GTC (bug detectado 2026-07-28: stops "day" expiran al cierre y dejan la posición sin protección de noche).
 3. NO abras posiciones nuevas en esta rutina (eso es de la apertura).
 4. Si vendiste algo o ajustaste un stop, registra una fila en el diario de Google Sheets (Tipo=gestion), según `memory/diario-sheet.md`.
 5. NO uses git push (solo-lectura). El estado real viene de Alpaca en vivo; el diario persiste en el Google Sheet.
