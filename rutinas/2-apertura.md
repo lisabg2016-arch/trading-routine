@@ -12,6 +12,7 @@ Trabajo:
    - **RECOM ≤ 2.5** (recomendación media de analistas). Si > 2.5 → NO comprar.
    - **Precio por debajo del target price medio** de analistas. Si está por encima del target → NO comprar, salvo que haya upgrades/subidas de target recientes.
    - **NO earnings esta semana.** Verifica la fecha de earnings; si el nombre reporta esta semana → NO comprar (riesgo de gap).
+   - **NO noticia negativa hoy.** Revisa las noticias del día del nombre (usa web/Perplexity/Finviz). Si hay algo negativo relevante (downgrade, recorte de target, guidance/profit warning, demanda/investigación, recall, fraude, layoffs…) → NO comprar (un dip por mala noticia real puede ser cuchillo cayendo).
    Y el resto de guardarraíles (máx 5% por posición, máx 5 abiertas, máx 3 nuevas/semana, régimen SPY>200d, etc.). Solo si TODO se cumple: coloca la orden de compra en Alpaca y una orden de **stop** asociada (~-8% o bajo soporte). **El stop DEBE ser GTC (`time_in_force: "gtc"`), NUNCA "day"** — una orden "day" expira al cierre y deja la posición sin protección de noche (bug detectado 2026-07-28). Después de colocarlo, confirma con `GET /v2/orders` que el stop quedó como GTC.
 3. Si ninguna idea cumple, NO operes (es válido).
 4. Por CADA operación colocada, registra una fila en el diario de Google Sheets (Tipo=operacion; incluye símbolo, acción, cantidad, precio, stop en Notas y tesis), según `memory/diario-sheet.md`.
