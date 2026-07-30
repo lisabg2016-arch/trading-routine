@@ -6,7 +6,7 @@ Estas reglas están por encima de cualquier corazonada o "oportunidad". Si una a
 2. **Máximo 5% del portafolio por posición.** Nada de concentrar.
 3. **Máximo 5 posiciones abiertas** a la vez.
 4. **Máximo 3 posiciones NUEVAS por semana.** Evita sobreoperar.
-5. **Stop obligatorio en cada compra** (~-8% o bajo soporte). Ninguna posición sin stop.
+5. **Stop obligatorio en cada compra** (−8%, o bajo un soporte más cercano; **nunca arriesga más de −8%**). Ninguna posición sin stop.
 6. **Nunca promediar a la baja** una posición perdedora.
 7. **NADA de opciones, futuros, apalancamiento, cripto apalancada, ni penny stocks** (<$10).
 8. **Solo símbolos de la watchlist.** Si quieres agregar uno nuevo, escríbelo en el diario de investigación y espera aprobación (no lo operes el mismo día).
