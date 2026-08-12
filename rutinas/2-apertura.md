@@ -14,8 +14,12 @@ Trabajo:
    - **NO earnings dentro de los próximos 5 días hábiles.** Verifica la fecha de earnings; si reporta en ≤5 sesiones → NO comprar (riesgo de gap). **Si no puedes confirmar la fecha → NO comprar.**
    - **NO noticia negativa hoy.** Revisa las noticias recientes del nombre (usa web/Perplexity/Finviz). Si hay algo negativo relevante (downgrade, recorte de target, guidance/profit warning, demanda/investigación, recall, fraude, layoffs…) → NO comprar (un dip por mala noticia real puede ser cuchillo cayendo).
    Y el resto de guardarraíles, calculándolos EXPLÍCITAMENTE con el estado real de Alpaca (`GET /v2/account` + `/v2/positions`): **régimen SPY>SMA200**; **tope de pérdida diaria −3%** (si el portafolio cae ≥3% hoy → no abrir nuevas, guardarraíl 9); **circuit breaker −15%** desde el capital inicial (si se supera → DETENER toda apertura y avisar, guardarraíl 10); **máx 5% por posición**; **máx 5 abiertas**; **máx 3 nuevas por semana** (cuenta las nuevas ya abiertas esta semana en el diario). Solo si TODO se cumple: coloca la orden de compra en Alpaca y una orden de **stop** asociada (−8%, o bajo un soporte más cercano, pero **nunca más de −8%**). **El stop DEBE ser GTC (`time_in_force: "gtc"`), NUNCA "day"** — una orden "day" expira al cierre y deja la posición sin protección de noche (bug detectado 2026-07-28). Después de colocarlo, confirma con `GET /v2/orders` que el stop quedó como GTC.
-3. Si ninguna candidata cumple, NO operes (es válido).
-4. **NO escribas al Google Sheet** (solo la Revisión Semanal escribe). El registro real de la operación queda en **Alpaca** (la orden misma). Por cada compra colocada, **notifícame** (símbolo, cantidad, precio, stop, tesis corta).
-5. NO uses git push (solo-lectura). El estado real de posiciones/efectivo se consulta en vivo desde Alpaca cada rutina.
+3. Si ninguna candidata cumple, NO operes en el libro activo (es válido).
+4. **Gestiona el CORE (SPLG)** — núcleo-satélite (ver `estrategia.md`). Tras decidir el libro activo:
+   - Si **régimen alcista** (SPY > SMA200) y el portafolio total (core SPLG + activo) está **por debajo de ~90% invertido**, **compra SPLG** para completar (deja ~10% de efectivo de colchón para nuevas entradas/fills). El core **NO lleva stop**.
+   - Si **régimen bajista** (SPY < SMA200) y tienes SPLG, **véndelo a efectivo** (protección 200D).
+   - **Rebalancea solo si el core se desvía >~10% del equity** respecto al objetivo (no lo toques a diario por variaciones pequeñas → evita churn/cuota).
+5. **NO escribas al Google Sheet** (solo la Revisión Semanal escribe). El registro real queda en **Alpaca**. Por cada compra activa colocada (o ajuste de core relevante), **notifícame** (símbolo, cantidad, precio, stop si aplica, tesis corta).
+6. NO uses git push (solo-lectura). El estado real de posiciones/efectivo se consulta en vivo desde Alpaca cada rutina.
 
 Notifícame SOLO si colocaste una operación (resumen corto de qué compraste, cantidad, stop). Si no operaste, no hace falta aviso.

@@ -46,6 +46,25 @@ Ante la duda entre estas puntas, **NO operar es una decisión válida y preferid
 - Si SPY < su media de 200 días (mercado bajista), NO abrir posiciones nuevas; solo gestionar
   las abiertas. Reduce drawdown; es seguro anti-catástrofe, no generador de retorno.
 
+## Núcleo-satélite (core SPY — para no quedar atrás de SPY)
+Problema del lastre de caja: con máx 5%/pos × 5 = 25% invertido, el ~75% en efectivo hace que el
+libro pierda contra SPY en mercados alcistas. Solución: **parkear el efectivo ocioso en un core de S&P 500**.
+- **Instrumento del core = SPLG** (SPDR Portfolio S&P 500 ETF): mismo índice que SPY pero ~1/10 del
+  precio por acción y fee más bajo (0.02%). **SPY se usa SOLO como señal de régimen (200D) y benchmark.**
+  (Alpaca permite fraccionarias, así que SPY también serviría; se elige SPLG por precio/fee.)
+- **Core (SPLG):** cuando **SPY > SMA200** (régimen alcista), mantén una posición de **SPLG** con el
+  efectivo que no usa el libro activo, apuntando a que el portafolio total (core + activo) quede
+  **~90% invertido** (deja ~10% de colchón para nuevas entradas activas y fills). Cuando **SPY < SMA200**
+  (bajista), **vende el core a efectivo** — es tu sistema 200D probado (protege del bear).
+- El **core NO cuenta** para los límites del libro activo (máx 5% / máx 5 / máx 3 nuevas) y **NO lleva
+  stop −8%**: lo gobierna el régimen 200D (dentro sobre 200d, fuera debajo).
+- **Satélite:** el libro activo de siempre (máx 5 posiciones × 5%, entradas discrecionales con filtros
+  13-17, stops −8%). Solo abre nuevas en régimen alcista.
+- **Rebalanceo sin churn:** ajusta el core solo si se desvía **>~10% del equity** respecto al objetivo
+  (no lo toques a diario por variaciones pequeñas).
+- Resultado: portafolio ≈ **SPY ± el alfa del libro activo**. Ya no pierde contra SPY por estructura,
+  y en bear el core en efectivo lo protege.
+
 ## Cadencia
 - Revisar en pre-mercado, apertura, mediodía, cierre. Revisión semanal los viernes.
 - Pocas operaciones buenas > muchas operaciones. Está bien no operar.

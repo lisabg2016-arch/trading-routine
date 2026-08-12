@@ -2,8 +2,10 @@
 
 Solo se puede operar lo que está en esta lista. Es el universo de MONITOREO; cada rutina revisa a diario si un nombre está en un setup sano (tendencia alcista + retroceso ordenado, evitando cuchillos cayendo y extensión vertical) antes de decidir. **Estar en la lista NO es una orden de compra.**
 
-## Referencia de mercado (NO operables — solo contexto/régimen)
-- SPY (mercado y régimen), QQQ (tech). **Estos NO se compran**; son solo referencia de mercado/régimen.
+## Referencia de mercado y CORE (no son trades activos)
+- **SPY**: señal de **régimen** (200D) y **benchmark**. NO se compra como trade activo.
+- **SPLG**: instrumento del **core** núcleo-satélite (se mantiene con el efectivo ocioso en régimen alcista; ver `estrategia.md`). NO cuenta como posición del libro activo.
+- **QQQ**: solo referencia (tech). NO se compra.
 
 ## Semiconductores / IA (sleeve medido — sector en auge)
 - NVDA, AVGO, LRCX, AMD
