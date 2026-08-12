@@ -20,11 +20,17 @@ Usa la acción de Zapier **"Google Sheets: Create Spreadsheet Row"** (`add_row`)
 | COL$H | vs.SPY | rendimiento vs SPY (o "-") |
 | COL$I | Notas | tesis, contexto, lecciones, resumen |
 
-## Cuándo registrar
-- **Apertura**: una fila por cada operación colocada (Tipo=operacion).
-- **Mediodía**: una fila si vendes o ajustas un stop (Tipo=gestion).
-- **Cierre**: una fila con el resumen del día (Tipo=cierre) — valor de cuenta, P&L del día, vs SPY.
-- **Revisión semanal**: una fila con el resumen de la semana (Tipo=review) — rendimiento, vs SPY, mejor/peor trade, calificación.
-- **Pre-mercado**: opcional, una fila con el resumen de investigación (Tipo=investigacion).
+## IMPORTANTE — evitar errores de fórmula (#ERROR! / #NAME?)
+Google Sheets interpreta como **fórmula** cualquier celda que empiece con `=`, `+` o `-`. Los valores de
+P&L y vs.SPY suelen empezar con `-` o `+` → salen como `#ERROR!`/`#NAME?` (pasó filas 19 y 25).
+**Regla:** en P&L (COL$G), vs.SPY (COL$H) y cualquier celda que pudiera empezar con `-`/`+`/`=`,
+**antepón un apóstrofo `'`** (fuerza texto) o empieza con una letra. Ejemplos:
+- P&L: escribe `'-428.80 (-0.43%)` (con apóstrofo) en vez de `-428.80 (-0.43%)`.
+- vs.SPY: escribe `'-1.36pp` en vez de `-1.36pp`.
+- Alternativa: `PnL -428.80 (-0.43%)` (empieza con letra, también seguro).
 
-Escribe filas concisas pero completas; este diario es la base de la revisión semanal.
+## Cuándo registrar — SOLO SEMANAL (ahorro de cuota Zapier)
+El Sheet se escribe **UNA sola vez por semana**: la **Revisión Semanal** del viernes (Tipo=review). Son ~4 filas/mes, dentro del plan gratis de Zapier.
+- **Pre-mercado / Apertura / Mediodía / Cierre: NO escriben al Sheet.** Reportan por **notificación**; el registro real de trades/posiciones/P&L queda en **Alpaca** (fuente de verdad, `/v2/account/activities` y `/v2/account/portfolio/history`).
+- La review **reconstruye la semana desde Alpaca**, no desde filas diarias del Sheet.
+- Escribe la fila del review concisa pero completa (recuerda el apóstrofo en P&L/vs.SPY para evitar errores de fórmula).

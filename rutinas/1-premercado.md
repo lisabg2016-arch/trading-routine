@@ -9,8 +9,8 @@ Las credenciales de Alpaca están en variables de entorno con estos nombres EXAC
 Trabajo:
 1. Revisa el contexto de mercado (SPY/QQQ, tendencia, si SPY está sobre/bajo su media de 200 días → régimen).
 2. Para los símbolos de la watchlist, busca catalizadores/noticias del día (usa web/Perplexity si está disponible).
-3. Redacta 0–3 ideas de trade candidatas para la apertura, cada una con: tesis corta, entrada aproximada, stop, y por qué respeta los guardarraíles — **incluyendo los 13-17** (RECOM ≤ 2.5, precio por debajo del target, NO earnings en ≤5 días hábiles, sin noticia negativa reciente). **Descarta ya en pre-mercado** cualquier idea que viole uno de estos; no la pases a la apertura.
-4. Registra un resumen conciso de tu investigación como UNA fila en el diario de Google Sheets (Tipo=investigacion), según `memory/diario-sheet.md`.
-5. NO uses git push (el repo está en solo-lectura, falla con 403). El diario persiste en el Google Sheet.
+3. Redacta 0–3 ideas candidatas (INFORMATIVAS — la Apertura re-escanea la watchlist por su cuenta y decide, no depende de un handoff): tesis corta, entrada aproximada, stop, y por qué respetarían los guardarraíles **13-17** (RECOM ≤ 2.5, precio por debajo del target, NO earnings en ≤5 días hábiles, sin noticia negativa reciente).
+4. **NO escribas al Google Sheet** (solo la Revisión Semanal escribe, para ahorrar cuota de Zapier). Si hay algo relevante o urgente (p. ej. una posición abierta con noticia grave, o candidatas atractivas para hoy), **notifícalo**.
+5. NO uses git push (solo-lectura, falla 403).
 
-No coloques órdenes. Notifícame SOLO si hay algo urgente (p. ej. una posición abierta con noticia grave). Si no, deja el trabajo en el diario.
+No coloques órdenes. Notifícame un resumen corto de lo que estás viendo hoy (contexto + candidatas), o avísame si hay algo urgente.
