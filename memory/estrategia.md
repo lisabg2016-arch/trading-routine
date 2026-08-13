@@ -62,6 +62,14 @@ libro pierda contra SPY en mercados alcistas. Solución: **parkear el efectivo o
   13-17, stops −8%). Solo abre nuevas en régimen alcista.
 - **Rebalanceo sin churn:** ajusta el core solo si se desvía **>~10% del equity** respecto al objetivo
   (no lo toques a diario por variaciones pequeñas).
+- **NOTA (2026-08-13): SPLG no está disponible en Alpaca.** `GET /v2/assets/SPLG` devuelve
+  `asset not found` (no es un problema de datos ni de mercado cerrado — el ticker simplemente no
+  existe en el universo de Alpaca ahora mismo). Mientras esto siga así, el core se implementa con
+  **SPY fraccionario** (ya contemplado como alternativa válida arriba: "SPY también serviría").
+  Comprado el core inicial 2026-08-13: 85.851065749 SPY @ 775.983495 (~$66,619.02). Si en una
+  rutina futura `GET /v2/assets/SPLG` vuelve a existir y es `tradable:true`, se puede evaluar
+  migrar el core de SPY a SPLG (o simplemente mantener SPY, ya que es funcionalmente equivalente
+  salvo fee).
 - Resultado: portafolio ≈ **SPY ± el alfa del libro activo**. Ya no pierde contra SPY por estructura,
   y en bear el core en efectivo lo protege.
 

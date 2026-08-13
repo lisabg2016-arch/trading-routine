@@ -4,7 +4,7 @@ Solo se puede operar lo que está en esta lista. Es el universo de MONITOREO; ca
 
 ## Referencia de mercado y CORE (no son trades activos)
 - **SPY**: señal de **régimen** (200D) y **benchmark**. NO se compra como trade activo.
-- **SPLG**: instrumento del **core** núcleo-satélite (se mantiene con el efectivo ocioso en régimen alcista; ver `estrategia.md`). NO cuenta como posición del libro activo.
+- **SPLG**: instrumento del **core** núcleo-satélite (se mantiene con el efectivo ocioso en régimen alcista; ver `estrategia.md`). NO cuenta como posición del libro activo. **No disponible en Alpaca desde al menos 2026-08-13** (`/v2/assets/SPLG` → asset not found) — mientras dure, el core usa **SPY fraccionario** en su lugar (ver nota en `estrategia.md`).
 - **QQQ**: solo referencia (tech). NO se compra.
 
 ## Semiconductores / IA (sleeve medido — sector en auge)
