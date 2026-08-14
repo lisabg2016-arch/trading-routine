@@ -2,8 +2,13 @@
 
 Notas de la rutina de pre-mercado: catalizadores, noticias, ideas de trade, y propuestas para agregar símbolos a la watchlist (que requieren aprobación humana antes de operarse).
 
-## (fecha)
-- Contexto de mercado:
-- Catalizadores del día:
-- Ideas / candidatos:
-- Propuestas de watchlist (pendientes de aprobación):
+## 2026-08-14 (pre-mercado, viernes)
+- **Contexto de mercado**: Régimen **ALCISTA** confirmado — SPY $775.93 vs SMA200 $705.43 (+10%), QQQ $729.30 vs SMA200 $650.58 (+12%). S&P 500 cerró por primera vez sobre 7,800 esta semana (récord). Futuros mixtos hoy (SPY -0.2%, QQQ -0.4%). Retail sales de julio bajó -0.6% m/m. Tensión geopolítica: bloqueo naval de EE.UU. a Irán, Bessent advirtió medidas de aislamiento económico "nunca vistas" — riesgo de cola a vigilar, no accionable hoy.
+- **Libro activo: LLENO (5/5 posiciones)** — ABBV, GE, JPM, NVDA, UNH. Guardarraíl 3 (máx 5) impide abrir nuevas hoy salvo que se libere un cupo. Todas las posiciones tienen stop GTC activo y verificado en Alpaca (ABBV 229.07, GE 357.66, JPM 336.58, NVDA 209.02 trailing, UNH 392.00).
+- **Alerta — UNH**: noticia negativa relevante hoy — demanda que alega fraude en Medicare Advantage, denegaciones de cuidado por algoritmo, y ventas de insiders por ~$237M (cobertura Benzinga). Posición ya en rojo (-4.3% no realizado, precio $401.05 vs entrada $419.12), stop GTC en $392 sigue protegiendo. Guardarraíl 6 (nunca promediar a la baja) y 12 (no mantener por esperanza) aplican — no se toca la posición en esta rutina informativa, pero se marca para revisión prioritaria en Apertura/Mediodía.
+- **Earnings próximos en posiciones abiertas**: NVDA reporta el **26-ago-2026** (After Market) — a ~8 sesiones, aún fuera de la ventana de "cerrar ganadora antes de earnings" (guardarraíl 16, 1-2 sesiones); vigilar la semana que viene. ABBV (~23-oct), GE (Q3, fin oct), JPM (13-oct) — lejos, no accionable.
+- **Nota — core**: el core actual está en **SPY** ($66,608, ~66% del equity) en vez de **SPLG** como especifica `estrategia.md` (línea "Instrumento del core = SPLG"). Mismo índice, no urgente, pero queda como discrepancia a revisar (posible rotación SPY→SPLG por fee/precio, o actualizar la estrategia si se decidió mantener SPY a propósito).
+- **Desempeño vs SPY desde inicio (24-jul-2026)**: equity $100,690.41 (+0.69%) vs SPY +5.01% en el mismo período → **rezagado ~-4.3pp**. Contexto para la Revisión Semanal del viernes.
+- **Catalizadores del día (watchlist)**: sin catalizadores idiosincráticos fuertes detectados en el resto de la watchlist hoy más allá de lo anterior; RDDT entra al S&P 500 el 18-ago (no es watchlist, solo contexto de mercado).
+- **Ideas / candidatos**: **0 candidatas nuevas hoy** — el libro está lleno (5/5), así que no aplica generar entradas nuevas (guardarraíl 3). Si se libera un cupo (p. ej. UNH toca stop), re-escanear la watchlist con los filtros 13-17 en la próxima rutina antes de proponer reemplazo.
+- **Propuestas de watchlist (pendientes de aprobación)**: ninguna.
