@@ -2,8 +2,18 @@
 
 Notas de la rutina de pre-mercado: catalizadores, noticias, ideas de trade, y propuestas para agregar símbolos a la watchlist (que requieren aprobación humana antes de operarse).
 
-## (fecha)
-- Contexto de mercado:
-- Catalizadores del día:
-- Ideas / candidatos:
-- Propuestas de watchlist (pendientes de aprobación):
+## 2026-08-17 (Pre-mercado)
+- **Contexto de mercado:** Régimen **alcista** — SPY (~$775.8) ~+10% sobre su SMA200 (~$705.9); QQQ (~$733) ~+13% sobre su SMA200 (~$651). Futuros mixtos/ligeramente positivos (S&P500 fut +0.11%, Nasdaq100 fut +0.34%, Dow fut −0.09%); Polymarket da 62% de probabilidad de apertura al alza. Sin señal de régimen bajista — filtro de 200D no restringe nuevas entradas hoy.
+- **Portafolio (Alpaca, en vivo):** Equity $100,673 (día −0.10% vs cierre anterior $100,777.6). Invertido ~90.2% ($90,775 en posiciones / equity), en línea con el objetivo núcleo-satélite (~90%). **Libro activo (satélite) ya está en el TOPE de 5 posiciones** (ABBV, GE, JPM, NVDA, UNH) — no hay espacio para una posición nueva hoy salvo que se cierre una primero. Núcleo: mantiene **SPY** (no SPLG) como proxy del core, ~$66,596 (~66% del equity) — funcionalmente equivalente a SPLG (mismo índice), solo distinto ticker; sin acción requerida.
+- **Posiciones abiertas — chequeo de noticias:**
+  - **UNH** (+0.1% no realizado, precio actual ~$396.9): Q2 fuerte (beat, guidance subido, PT alzados por KeyBanc a $500 y UBS a $490), pero **noticia negativa reciente** el 13-ago: nueva demanda por fallas de ciberseguridad/gobernanza. Tesis de fondo (fundamentales) intacta; no toca stop. Vigilar, sin acción hoy.
+  - **GE** (+1.05% no realizado): fundamentales sólidos (ingresos +24%, FCF +43%, guidance subido), pero ya cotiza ~20% sobre el fair value estimado (Simply Wall St) tras la fuerte subida — sin noticia negativa puntual.
+  - **ABBV** (+0.08% no realizado, recién abierta 2026-08-14): Q2 fuerte, guidance de ingresos 2026 subido a ~$67.6bn; sin noticia negativa nueva.
+  - **JPM** (+1.6% no realizado): sentimiento de analistas positivo (13 compra / 1 venta), JPM elevó su objetivo de S&P500 a 8,000. Sin bandera roja.
+  - **NVDA** (+13.2% no realizado, cerca de máximos de 20/60 días): **earnings el 26-ago-2026 (AMC)** — todavía fuera de la ventana de 5 días hábiles (guardarraíl 16), pero **entrará en esa ventana ~19-20 ago**; si sigue en verde, las rutinas de gestión deben cerrarla antes del reporte.
+- **Candidatas para nuevas entradas (informativo — NO se puede abrir hoy por tope de 5 posiciones; para cuando se libere espacio):**
+  1. **GOOGL** — tendencia alcista sana (+4.1% sobre SMA200), retroceso ordenado (−8.6% desde máximo de 20d, −11.5% desde 60d), sin estar en cuchillo ni extendida. RECOM ≈1.3 (44 strong buy/4 moderate buy/6 hold de 54, sin sells) → ✅ ≤2.5. Target medio ~$428-433 vs precio ~$345 → ✅ amplio margen (~23-25% upside). Sin earnings próximos (ya reportó; próximo ~oct/nov, fuera de ventana). Sin noticia negativa reciente. **Cumple 13-17** con los datos de hoy — recheck en vivo antes de comprar.
+  2. **HON** — +5% sobre SMA200, retroceso −7% desde máximo de 20d, sano. Consenso "Buy"/"Overweight", PT medio ~$247-262 vs precio ~$231 → ✅ margen ~6-13% (nota: Morgan Stanley con "equal weight" a $245, algo mixto). Earnings ya reportó (23-jul), próximo fuera de ventana de 5 días. Sin noticia negativa. Candidata razonable, RECOM a reconfirmar en vivo.
+  3. **AVGO (con cautela)** — retroceso más profundo (−7.7%/−18.1% desde máximos), consenso "Strong Buy", PT medio ~$528 vs precio ~$395 → gran margen. Earnings 2-sep-2026 (AMC), aún fuera de ventana de 5 días pero hay que re-chequear cerca de la fecha. **Ojo:** hubo noticia negativa reciente (vulnerabilidad de seguridad en VMware) que pudo golpear el precio — antes de considerarla, confirmar que no sea "cuchillo cayendo" disfrazado de pullback (guardarraíl 17). No es una candidata limpia hoy.
+  - **AAPL** (nota, no candidata firme): parece haber vuelto a cotizar **bajo su target** (antes estaba ~4% arriba, ahora targets ~$322-327 vs precio ~$306 → margen positivo), señal de mejora vs. la nota de watchlist del 29-jul. Fecha de earnings no confirmada con certeza en la búsqueda de hoy → por guardarraíl 15 (fallo-cerrado), no comprable hasta confirmar fecha en vivo.
+- **Propuestas de watchlist (pendientes de aprobación):** ninguna.
