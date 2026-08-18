@@ -41,8 +41,12 @@ Solo se puede operar lo que está en esta lista. Es el universo de MONITOREO; ca
   el bot deja de comprarlo (aunque ya lo tenga, no promedia/añade).
 - **Target price: NUNCA comprar por encima del target price medio de analistas**, salvo que haya
   upgrades o subidas de target RECIENTES. Al 2026-07-29 estaban ARRIBA de su target: **KO (−0%), AAPL (−4%)**
-  → siguen en la lista pero NO comprables hasta que retrocedan bajo el target o les suban el target.
+  → seguían en la lista pero NO comprables hasta que retrocedieran bajo el target o les subieran el target.
   Poco margen (<5%, comprar con cuidado): MRK, ABBV.
+- **Actualización 2026-08-18 (pre-mercado):** AAPL ya volvió a quedar BAJO su target (precio ~$305.65 vs
+  target consensus ~$322–327, ~5-6% de margen) — pero tras un retroceso marcado (~−10% desde su máximo
+  de 20 días, por debajo de su SMA50) que raya con "cuchillo cayendo"; revisar con cuidado antes de comprar.
+  KO no re-verificado hoy — re-chequear en vivo antes de considerarlo.
 - Estos valores cambian; **el bot debe re-checarlos en vivo** (Finviz Elite / datos de analistas) antes de cada compra.
 
 ---
