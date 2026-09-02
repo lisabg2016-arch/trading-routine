@@ -2,8 +2,11 @@
 
 Notas de la rutina de pre-mercado: catalizadores, noticias, ideas de trade, y propuestas para agregar símbolos a la watchlist (que requieren aprobación humana antes de operarse).
 
-## (fecha)
-- Contexto de mercado:
-- Catalizadores del día:
-- Ideas / candidatos:
-- Propuestas de watchlist (pendientes de aprobación):
+## 2026-09-02 (pre-mercado)
+- **Contexto de mercado**: Régimen **ALCISTA** — SPY $761.63 vs SMA200 $710.63 (+7.2%), QQQ $707.65 vs SMA200 $656.05 (+7.9%). Ambos por encima de su media de 200d, sin extensión vertical extrema. Tono del día **risk-off puntual**: escalada EE.UU.-Irán (ataques a objetivos iraníes) empuja petróleo por encima de $95/barril Brent, yields al alza, futuros y Nasdaq/QQQ bajando en pre-mercado (rotación fuera de tech/IA). Foco también en datos económicos previos a la reunión de la Fed este mes.
+- **Catalizadores del día**: Ninguno específico de watchlist encontrado más allá del macro (petróleo/geopolítica/yields). No se detectaron earnings de las 5 posiciones abiertas (ABBV, CAT, GOOGL, JPM, MSFT) dentro de los próximos 5 días hábiles — ABBV reporta el 2026-10-23; CAT/GOOGL/JPM/MSFT no tienen reporte de Q3 hasta octubre. Sin noticia negativa material detectada sobre las posiciones abiertas.
+- **Ideas / candidatos**: Ninguna candidata nueva propuesta hoy. El libro activo (satélite) ya está en **5/5 posiciones** (ABBV, CAT, GOOGL, JPM, MSFT) — máximo permitido (guardarraíl 3) — por lo que no hay espacio para abrir nada nuevo aunque apareciera un setup atractivo. Con el tono risk-off de hoy (petróleo/geopolítica), tampoco es un día para forzar nada nuevo.
+- **Propuestas de watchlist (pendientes de aprobación)**: Ninguna.
+- **Observación de proceso (para revisión humana, no accionable hoy)**:
+  1. `memory/portafolio.md`, `memory/diario_operaciones.md` y `memory/revision_semanal.md` seguían con el placeholder inicial ("recién creado, sin operar") pese a que la cuenta ya tiene 5 posiciones abiertas desde julio-agosto 2026 — las rutinas anteriores no habían estado actualizando la memoria. Se corrige `portafolio.md` hoy con el snapshot real de Alpaca.
+  2. El **core** de la estrategia núcleo-satélite está en **SPY** (85.85 acc., ~$65,451, ~66% del equity), no en **SPLG** como especifica `estrategia.md`. No es una violación de guardarraíles (el core está exento de los límites 2-5), pero difiere del instrumento documentado. Portafolio total invertido ≈91% del equity, en línea con el objetivo ~90%. Se deja constancia; no se toca hoy (rutina de pre-mercado no opera).
