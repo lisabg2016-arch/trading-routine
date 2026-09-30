@@ -12,3 +12,8 @@ Notas de la rutina de pre-mercado: catalizadores, noticias, ideas de trade, y pr
 - Contexto: SPY 777.84 vs SMA200 ~705 (régimen ALCISTA), QQQ 732 vs SMA200 ~650. Futuros +0.2/0.4%. Yields altos (10y ~5.2%), tensión Irán/petróleo.
 - Catalizadores: sin noticias graves en posiciones abiertas. Sin earnings en <=5 días hábiles para las posiciones (no verificado con calendario).
 - Ideas: ninguna candidata (RECOM/target/earnings no confirmables en vivo -> fallo-cerrado).
+
+## 2026-09-30 (pre-mercado)
+- Contexto: SPY 764.38 vs SMA200 ~719 (régimen ALCISTA), QQQ 737.96 vs SMA200 ~667. SPY bajó 3 sesiones seguidas desde 771.
+- Catalizadores: sin noticias verificadas graves; UNH -4.7% desde entrada, stop 361.39 vigente.
+- Ideas: ninguna (RECOM/target/earnings no confirmables -> fallo-cerrado).
