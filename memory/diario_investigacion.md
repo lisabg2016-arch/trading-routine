@@ -22,3 +22,8 @@ Notas de la rutina de pre-mercado: catalizadores, noticias, ideas de trade, y pr
 - Contexto: SPY ~765.3 vs SMA200 ~720 (régimen ALCISTA). Equity $98,676 (-0.34% vs cierre previo). Sin noticias verificadas graves.
 - UNH -6.7% desde entrada (366.52), stop 361.39 a ~1.4% -> vigilar. MA -2.9%, resto cerca de cero.
 - Ideas: ninguna (RECOM/target/earnings no confirmables -> fallo-cerrado).
+
+## 2026-10-05 (pre-mercado)
+- Contexto: SPY 769.3 vs SMA200 709.8 (régimen ALCISTA), QQQ 716.4 vs SMA200 655.1. Equity $99,222 (-0.05%). Sin noticias verificadas graves.
+- UNH -5.0% (stop 361.39 a ~3% abajo), MA -3.1%; UNH earnings 13-oct (fuera de ventana).
+- Ideas: ninguna (RECOM/target/earnings no confirmables -> fallo-cerrado).
