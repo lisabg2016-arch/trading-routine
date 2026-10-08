@@ -27,3 +27,9 @@ Notas de la rutina de pre-mercado: catalizadores, noticias, ideas de trade, y pr
 - Contexto: SPY ~775.5 sobre SMA200 (régimen ALCISTA). Equity -0.47% vs cierre previo. Sin noticias verificadas graves.
 - UNH -4.7% (stop 361.39 a ~3.4%). CAT stop subido a 816 (breakeven).
 - Ideas: ninguna (RECOM/target/earnings no confirmables -> fallo-cerrado).
+
+## 2026-10-08 (pre-mercado)
+- Contexto: SPY 777.15 (cierre 10/7) vs SMA200 ~722 (régimen ALCISTA), QQQ 757.74 vs SMA200 ~671. Equity $99,938 (-0.29% vs cierre previo). Cash $10.0k; core SPY ~71%.
+- Posiciones: GOOGL +3.5%, V +0.8%, MA -0.5%, UNH -4.5% (precio 375, stop ~361.39 a ~3.6%). Stops GTC vigentes en todas. Sin CAT abierta.
+- Aviso: UNH suele reportar ~mediados de octubre (fecha no verificada); si es perdedora la protege el stop GTC (guardarraíl 16 solo aplica a ganadoras).
+- Ideas: ninguna (RECOM/target/earnings no confirmables en vivo -> fallo-cerrado).
