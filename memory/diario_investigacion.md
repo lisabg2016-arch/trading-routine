@@ -33,3 +33,8 @@ Notas de la rutina de pre-mercado: catalizadores, noticias, ideas de trade, y pr
 - Posiciones: GOOGL +3.5%, V +0.8%, MA -0.5%, UNH -4.5% (precio 375, stop ~361.39 a ~3.6%). Stops GTC vigentes en todas. Sin CAT abierta.
 - Aviso: UNH suele reportar ~mediados de octubre (fecha no verificada); si es perdedora la protege el stop GTC (guardarraíl 16 solo aplica a ganadoras).
 - Ideas: ninguna (RECOM/target/earnings no confirmables en vivo -> fallo-cerrado).
+
+## 2026-10-09 (pre-mercado)
+- Contexto: SPY 776.9 vs SMA200 ~722 (ALCISTA), QQQ 732 (IEX) vs SMA200 ~650. Equity $100,254 (+0.35%).
+- UNH reporta Q3 el mar 2026-10-13 antes de apertura (confirmado por la compañía). Posición perdedora (-4.8%), protegida por stop GTC 361.39; riesgo de gap bajo el stop.
+- Ideas: ninguna (RECOM/target/earnings no confirmables -> fallo-cerrado).
