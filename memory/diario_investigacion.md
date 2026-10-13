@@ -38,3 +38,9 @@ Notas de la rutina de pre-mercado: catalizadores, noticias, ideas de trade, y pr
 - Contexto: SPY 776.9 vs SMA200 ~722 (ALCISTA), QQQ 732 (IEX) vs SMA200 ~650. Equity $100,254 (+0.35%).
 - UNH reporta Q3 el mar 2026-10-13 antes de apertura (confirmado por la compañía). Posición perdedora (-4.8%), protegida por stop GTC 361.39; riesgo de gap bajo el stop.
 - Ideas: ninguna (RECOM/target/earnings no confirmables -> fallo-cerrado).
+
+## 2026-10-13 (pre-mercado)
+- Contexto: SPY ~777.8 vs SMA200 ~722 (ALCISTA). Equity $101,079 (+0.28% vs cierre previo).
+- UNH reportó Q3 hoy antes de apertura: beat (adj EPS 4.69), guía FY subida (>=20.50). Pre-mercado +3.6% (392), posición ~-0.2%; el gap evitó el stop 361.39. Stop GTC sigue vigente (a ~7.8%).
+- Stops GTC verificados: GOOGL 330.62, MA 568 (breakeven), V 366.9 (breakeven), UNH 361.39.
+- Ideas: ninguna (RECOM/target/earnings no confirmables -> fallo-cerrado). Sin órdenes.
