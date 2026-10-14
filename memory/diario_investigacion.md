@@ -44,3 +44,9 @@ Notas de la rutina de pre-mercado: catalizadores, noticias, ideas de trade, y pr
 - UNH reportó Q3 hoy antes de apertura: beat (adj EPS 4.69), guía FY subida (>=20.50). Pre-mercado +3.6% (392), posición ~-0.2%; el gap evitó el stop 361.39. Stop GTC sigue vigente (a ~7.8%).
 - Stops GTC verificados: GOOGL 330.62, MA 568 (breakeven), V 366.9 (breakeven), UNH 361.39.
 - Ideas: ninguna (RECOM/target/earnings no confirmables -> fallo-cerrado). Sin órdenes.
+
+## 2026-10-14 (pre-mercado)
+- Contexto: SPY ~780 vs SMA200 ~722 (ALCISTA; datos de barras no disponibles hoy, SMA200 de la última lectura). Equity $101,284 (+0.33% vs cierre previo).
+- UNH 12 @392.81 (entrada nueva tras gap), ahora 379.87 (-3.3%), stop GTC 361.39. GOOGL +4.7%, MA +7.1%, V +8.5%.
+- Stops GTC verificados (subidos): GOOGL 342.60, V 375, MA 580, UNH 361.39.
+- Ideas: ninguna (RECOM/target/earnings no confirmables -> fallo-cerrado). Sin órdenes.
