@@ -3,8 +3,8 @@
 > La rutina actualiza este archivo en cada ejecución con datos reales de Alpaca (`GET /v2/account` y `/v2/positions`).
 
 ## Última actualización
-- Fecha/hora: 2026-10-15 pre-mercado (Bull - Pre-Mercado)
-- Cuenta: PAPER, ACTIVE. Equity $100,129 (cierre previo $100,238), efectivo $10,012
-- Posiciones: SPY 91.86 (core, -1.0%), GOOGL 14 (+0.6%), MA 8 (+7.2%), UNH 12 @392.81 (+1.4%), V 13 (+7.8%)
-- Stops GTC vigentes (verificados): GOOGL 342.60, V 375, MA 580, UNH 361.39
-- Régimen: SPY 769.65 > SMA200 ~724 (alcista). Sin órdenes hoy; sin candidatas (fallo-cerrado).
+- Fecha/hora: 2026-10-16 pre-mercado (Bull - Pre-Mercado)
+- Cuenta: PAPER, ACTIVE. Equity $100,894 (cierre previo $100,702), efectivo $14,796
+- Posiciones: SPY 91.86 (core, -0.3%), MA 8 @567.87 (+9.1%), UNH 12 @392.81 (+4.2%), V 13 @366.86 (+9.4%). GOOGL cerrada 10/13 por stop GTC (fill 341.70).
+- Stops GTC vigentes (verificados): UNH 385, MA 590, V 385
+- Régimen: SPY ~773 > SMA200 ~722 (alcista). Sin órdenes hoy; sin candidatas (fallo-cerrado).
