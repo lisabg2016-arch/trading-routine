@@ -30,3 +30,8 @@ Registro de cada operación. La rutina agrega una fila cuando compra o vende.
 - Contexto: SPY core 770.6 (-0.6% vs entrada), régimen ALCISTA (SMA200 ~715-722). Equity $100,867 (+0.07% vs cierre previo).
 - Posiciones: V +10.4%, MA +9.2%, UNH +6.2%, MRK +1.0%, SPY core -0.6%. Stops GTC verificados: MRK 134.50, UNH 395 (subido), MA 590, V 385.
 - Earnings: V/MA fines de oct (fecha exacta no confirmada, >2 sesiones) -> vigilar guardarraíl 16. MRK 10/29. UNH ya reportó (~10/13). Ideas: ninguna (RECOM/target no confirmables -> fallo-cerrado). Sin órdenes.
+
+## 2026-10-22 (pre-mercado)
+- Contexto: SPY ~766 vs SMA200 ~715 (ALCISTA). Equity $100,656 (-0.57% vs cierre previo); SPY core -0.9% ayer.
+- Posiciones: V +11.2%, MA +9.8%, UNH +7.0%, MRK +3.6%, SPY core -1.2%. Stops GTC verificados (MRK 134.50, UNH 395, MA 590, V 385).
+- Earnings: V 10/27 post-cierre (confirmado) -> cerrar V el 10/27 (G16). MA probablemente 10/29 o similar, sin confirmar. Ideas: ninguna (fallo-cerrado). Sin órdenes.
