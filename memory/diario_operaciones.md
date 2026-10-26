@@ -40,3 +40,7 @@ Registro de cada operación. La rutina agrega una fila cuando compra o vende.
 - Contexto: SPY ~764 vs SMA200 ~715 (ALCISTA); QQQ ~704 (-3% vs cierre previo en IEX). Equity $100,285 (-0.28% vs cierre previo).
 - Posiciones: V +12.1%, MA +11.0%, UNH +7.8%, MRK +0.1%, SPY core -1.7%. Stops GTC verificados: MRK 134.50, UNH 405, MA 600, V 395.
 - Earnings: V 10/27 post-cierre -> cerrar V el 10/27 (G16). MRK 10/29. MA sin confirmar. Ideas: ninguna (fallo-cerrado). Sin órdenes.
+
+## 2026-10-26 (pre-mercado)
+- Contexto: SPY ~761 vs SMA200 ~715 (ALCISTA); QQQ ~709 vs SMA200 ~661. Equity $100,173.
+- Stops GTC verificados (MRK 134.50, UNH 405, MA 600, V 395). Earnings: V 10/27 post-cierre; MA y MRK 10/29 pre-apertura -> cerrar el 10/28 (G16). Ideas: ninguna (RECOM/target no confirmables -> fallo-cerrado). Sin órdenes.
