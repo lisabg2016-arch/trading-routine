@@ -50,3 +50,8 @@ Notas de la rutina de pre-mercado: catalizadores, noticias, ideas de trade, y pr
 - UNH 12 @392.81 (entrada nueva tras gap), ahora 379.87 (-3.3%), stop GTC 361.39. GOOGL +4.7%, MA +7.1%, V +8.5%.
 - Stops GTC verificados (subidos): GOOGL 342.60, V 375, MA 580, UNH 361.39.
 - Ideas: ninguna (RECOM/target/earnings no confirmables -> fallo-cerrado). Sin órdenes.
+
+## 2026-10-28 (pre-mercado)
+- Contexto: SPY ~770.7 vs SMA200 ~720 (ALCISTA); QQQ ~720.8. Equity $100,420.
+- MA cerrada 10/27 (market 8 @610.60, G16). Posiciones: SPY core -0.6%, UNH +3.5% (stop 405 a <1% del precio), MRK -3.6% (stop 134.50, earnings 10/29 pre-apertura).
+- Ideas: ninguna (RECOM/target/earnings no confirmables -> fallo-cerrado). Sin órdenes.
