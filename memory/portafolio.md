@@ -14,3 +14,8 @@
 - Posiciones: SPY core 91.86 (-0.8%), UNH 12 @392.81 (+5.1%), MRK 34 @146.13 (-1.2%). Stops GTC vigentes: MRK 134.50, UNH 405 (precio ~413).
 - Earnings: MRK reporta hoy 10/29 9:00 ET (perdedora, protegida por stop; riesgo de gap). Ideas: ninguna (RECOM/target/earnings no confirmables -> fallo-cerrado). Sin órdenes.
 
+
+## 2026-10-30 (pre-mercado)
+- Contexto: SPY ~761 (pre) vs SMA200 ~723 (ALCISTA); QQQ ~698-715 vs SMA200 ~672 (caída fuerte el 10/29). Equity $99,844 (-0.61% vs cierre previo), efectivo $24,810.
+- UNH cerrada 10/29 por stop GTC (12 @404.80, ~+3% vs entrada 392.81). Posiciones: SPY core 91.86 (-1.8%), MRK 34 @146.13 (+2.3%, post-earnings 10/29; stop GTC 134.50 vigente).
+- Ideas: ninguna (RECOM/target/earnings no confirmables -> fallo-cerrado). Sin órdenes.
