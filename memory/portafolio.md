@@ -19,3 +19,8 @@
 - Contexto: SPY ~761 (pre) vs SMA200 ~723 (ALCISTA); QQQ ~698-715 vs SMA200 ~672 (caída fuerte el 10/29). Equity $99,844 (-0.61% vs cierre previo), efectivo $24,810.
 - UNH cerrada 10/29 por stop GTC (12 @404.80, ~+3% vs entrada 392.81). Posiciones: SPY core 91.86 (-1.8%), MRK 34 @146.13 (+2.3%, post-earnings 10/29; stop GTC 134.50 vigente).
 - Ideas: ninguna (RECOM/target/earnings no confirmables -> fallo-cerrado). Sin órdenes.
+
+## 2026-11-02 (pre-mercado)
+- Contexto: SPY 769.28 vs SMA200 ~710 (ALCISTA), SMA50 ~754; QQQ 716.4 vs SMA200 ~655. Equity $99,646 (+0.43% vs cierre previo $99,222), efectivo $10,310.
+- Posiciones: SPY core 110.92 @772.69 (-1.7%), MRK 34 @146.13 (+2.8%; stop GTC 134.50 vigente). Única orden abierta: stop MRK GTC.
+- Ideas: ninguna (RECOM/target/earnings no confirmables -> fallo-cerrado). Sin órdenes.
