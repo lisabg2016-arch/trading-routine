@@ -58,3 +58,8 @@ Notas de la rutina de pre-mercado: catalizadores, noticias, ideas de trade, y pr
 
 ## 2026-10-30 (pre-mercado)
 - SPY ~761 vs SMA200 ~723 (ALCISTA); QQQ débil. UNH salió por stop 10/29 (404.80). MRK +2.3%, stop 134.50 GTC. Ideas: ninguna (fallo-cerrado). Sin órdenes.
+
+## 2026-11-03 (pre-mercado)
+- Contexto: SPY 752 (cierre 11/02) vs SMA200 ~729 (ALCISTA, margen +3%), bajo SMA50 ~767; QQQ 681 vs SMA200 ~680 (al borde). Equity $98,591 (-0.19%), efectivo $10,310.
+- Posiciones: SPY core 110.92 (-2.8%), MRK 34 @146.13 (+0.6%; stop GTC 134.50 vigente). Ideas: ninguna (RECOM/target/earnings no confirmables -> fallo-cerrado). Sin órdenes.
+- Vigilar: si SPY cierra bajo SMA200 (~729) vender core a efectivo.
