@@ -31,3 +31,7 @@
 ## 2026-11-04 (pre-mercado)
 - Contexto: SPY ~761 vs SMA200 ~715 (ALCISTA), SMA50 ~759; QQQ ~709 vs SMA200 ~661. Equity $99,847, efectivo $10,310.
 - Posiciones: SPY core 110.92 (-1.3%), MRK 34 @146.13 (+0.2%; stop GTC 134.50 vigente, única orden abierta). Ideas: ninguna (RECOM/target/earnings no confirmables -> fallo-cerrado). Sin órdenes.
+
+## 2026-11-05 (pre-mercado)
+- Contexto: SPY ~761 (último cierre IEX) vs SMA200 ~715 (ALCISTA), SMA50 ~759; QQQ ~709 vs SMA200 ~661. Equity $100,683 (+0.2% vs cierre previo $100,480), efectivo $10,310.
+- Posiciones: SPY core 110.92 (-0.6%), MRK 34 @146.13 (+3.7%; stop GTC 134.50 vigente, única orden abierta). Ideas: ninguna (RECOM/target/earnings no confirmables -> fallo-cerrado). Sin órdenes.
