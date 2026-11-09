@@ -47,3 +47,8 @@ Registro de cada operación. La rutina agrega una fila cuando compra o vende.
 - Stops GTC verificados: MRK 134.50, UNH 405, MA 600.
 - Earnings: MA 10/29 pre-apertura (confirmado por la compañía) -> MA es ganadora: cerrar el 10/28 antes del cierre (G16). MRK también 10/29 pre-apertura, perdedora, la protege el stop (riesgo de gap).
 - Ideas: ninguna (RECOM/target no confirmables -> fallo-cerrado). Sin órdenes.
+
+## 2026-11-09 (pre-mercado)
+- Contexto: SPY 735.40 (cierre 11/06) vs SMA200 ~730.4 (ALCISTA, margen +0.7%, muy frágil), SMA50 ~765.7; QQQ 656.3 vs SMA200 ~680.9 (BAJO). Futuros +0.3-0.7%; NVDA -4% pre (investigación a Huang). Semana pasada SPY -2.7%.
+- Equity $97,465 (+0.6% vs cierre previo $96,860), efectivo $10,310. SPY core 110.92 (-4.2%), MRK 34 @146.13 (+1.7%; stop GTC 134.50 única orden abierta).
+- Ideas: ninguna (régimen frágil + RECOM/target/earnings no confirmables -> fallo-cerrado). Sin órdenes. Vigilar: cierre SPY < SMA200 -> vender core.

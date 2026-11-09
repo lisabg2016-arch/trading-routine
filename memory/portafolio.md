@@ -3,7 +3,7 @@
 > La rutina actualiza este archivo en cada ejecución con datos reales de Alpaca (`GET /v2/account` y `/v2/positions`).
 
 ## Última actualización
-- Fecha/hora: 2026-10-28 pre-mercado (Bull - Pre-Mercado)
+- Fecha/hora: 2026-11-09 pre-mercado. Equity $97,465, efectivo $10,310. SPY core 110.92 (-4.2%), MRK 34 (+1.7%, stop 134.50 GTC). SPY 735.4 vs SMA200 730.4 (alcista frágil).
 - Cuenta: PAPER, ACTIVE. Equity $100,420 (+0.02% vs cierre previo), efectivo $19,952
 - Posiciones: SPY 91.86 (core, -0.6%), UNH 12 @392.81 (+3.5%), MRK 34 @146.13 (-3.6%). MA cerrada 10/27 @610.60 (8 acc, +7.5%, G16).
 - Stops GTC vigentes: MRK 134.50, UNH 405 (precio ~406-410, a <1%: riesgo de saltar)
