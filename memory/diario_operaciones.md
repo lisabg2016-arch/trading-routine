@@ -52,3 +52,8 @@ Registro de cada operación. La rutina agrega una fila cuando compra o vende.
 - Contexto: SPY 735.40 (cierre 11/06) vs SMA200 ~730.4 (ALCISTA, margen +0.7%, muy frágil), SMA50 ~765.7; QQQ 656.3 vs SMA200 ~680.9 (BAJO). Futuros +0.3-0.7%; NVDA -4% pre (investigación a Huang). Semana pasada SPY -2.7%.
 - Equity $97,465 (+0.6% vs cierre previo $96,860), efectivo $10,310. SPY core 110.92 (-4.2%), MRK 34 @146.13 (+1.7%; stop GTC 134.50 única orden abierta).
 - Ideas: ninguna (régimen frágil + RECOM/target/earnings no confirmables -> fallo-cerrado). Sin órdenes. Vigilar: cierre SPY < SMA200 -> vender core.
+
+## 2026-11-10 (pre-mercado)
+- Contexto: SPY 752.72 (cierre 11/09, +2.4%) vs SMA200 ~730.7 (ALCISTA, margen +3%); QQQ 678.77 (+3.4%) aún bajo SMA200 ~681.1 (-0.3%). Rebote tras la caída de la semana pasada.
+- Equity $98,983 (+0.12% vs cierre previo), efectivo $10,317. SPY core 110.92 (-2.5%), MRK 34 @146.13 (+2.3%; stop GTC 134.50 vigente, única orden abierta).
+- Ideas: ninguna (régimen aún frágil, QQQ bajo SMA200; RECOM/target/earnings no confirmables -> fallo-cerrado). Sin órdenes.
