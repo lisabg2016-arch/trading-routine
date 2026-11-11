@@ -57,3 +57,8 @@ Registro de cada operación. La rutina agrega una fila cuando compra o vende.
 - Contexto: SPY 752.72 (cierre 11/09, +2.4%) vs SMA200 ~730.7 (ALCISTA, margen +3%); QQQ 678.77 (+3.4%) aún bajo SMA200 ~681.1 (-0.3%). Rebote tras la caída de la semana pasada.
 - Equity $98,983 (+0.12% vs cierre previo), efectivo $10,317. SPY core 110.92 (-2.5%), MRK 34 @146.13 (+2.3%; stop GTC 134.50 vigente, única orden abierta).
 - Ideas: ninguna (régimen aún frágil, QQQ bajo SMA200; RECOM/target/earnings no confirmables -> fallo-cerrado). Sin órdenes.
+
+## 2026-11-11 (pre-mercado)
+- Contexto: SPY 749.93 (cierre IEX 11/10, -0.4%) vs SMA200 ~731.0 (ALCISTA, margen +2.6%), bajo SMA50 ~765; QQQ 674.82 bajo SMA200 ~681.4 (-1.0%). Sin noticias de futuros del día confirmables.
+- Equity $99,170 (+0.64% vs cierre previo $98,535), efectivo $10,317. SPY core 110.92 (-2.1%), MRK 34 @146.13 (+0.2%; stop GTC 134.50 vigente, única orden abierta). Sin noticia negativa nueva en MRK.
+- Ideas: ninguna (régimen frágil, QQQ bajo SMA200; RECOM/target/earnings no confirmables -> fallo-cerrado). Sin órdenes.
