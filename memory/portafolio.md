@@ -3,9 +3,10 @@
 > La rutina actualiza este archivo en cada ejecución con datos reales de Alpaca (`GET /v2/account` y `/v2/positions`).
 
 ## Última actualización
-- Fecha/hora: 2026-11-11 pre-mercado. Equity $99,170, efectivo $10,317. SPY core 110.92 (-2.1%), MRK 34 (+0.2%, stop 134.50 GTC). SPY 749.9 vs SMA200 731.0 (alcista frágil); QQQ bajo SMA200.
-- Cuenta: PAPER, ACTIVE. Posiciones: SPY core 110.92 @772.69, MRK 34 @146.13. Única orden abierta: stop MRK 134.50 GTC.
-- Régimen: alcista frágil (SPY +2.6% sobre SMA200, bajo SMA50). Sin órdenes; sin candidatas.
+- Fecha/hora: 2026-11-12 pre-mercado. Equity $99,295 (-0.31% vs cierre previo $99,609), efectivo $5,515.
+- Cuenta: PAPER, ACTIVE. Posiciones: SPY core 110.92 @772.69 (-2.1%), MRK 34 @146.13 (+1.7%), JPM 14 @342.97 (+0.6%, NUEVA 11/11).
+- Órdenes abiertas: stop MRK 134.50 GTC, stop JPM 315.60 GTC (-8%).
+- Régimen: ALCISTA (SPY 759.8 vs SMA200 728.6, +4.3%; bajo SMA50 764.6). QQQ 690.4 recuperó SMA200 680.6.
 
 ## 2026-10-29 (pre-mercado)
 - Contexto: SPY 772.28 vs SMA200 728 (ALCISTA), SMA50 768; QQQ 725.6 vs SMA200 679. Equity $100,443 (-0.13% vs cierre previo), efectivo $19,952.

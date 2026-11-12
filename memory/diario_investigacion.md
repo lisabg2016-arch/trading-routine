@@ -63,3 +63,8 @@ Notas de la rutina de pre-mercado: catalizadores, noticias, ideas de trade, y pr
 - Contexto: SPY 752 (cierre 11/02) vs SMA200 ~729 (ALCISTA, margen +3%), bajo SMA50 ~767; QQQ 681 vs SMA200 ~680 (al borde). Equity $98,591 (-0.19%), efectivo $10,310.
 - Posiciones: SPY core 110.92 (-2.8%), MRK 34 @146.13 (+0.6%; stop GTC 134.50 vigente). Ideas: ninguna (RECOM/target/earnings no confirmables -> fallo-cerrado). Sin órdenes.
 - Vigilar: si SPY cierra bajo SMA200 (~729) vender core a efectivo.
+
+## 2026-11-12 (pre-mercado)
+- Contexto: SPY 759.8 vs SMA200 728.6 (ALCISTA, margen +4.3%), aún bajo SMA50 764.6; QQQ 690.4 recuperó SMA200 (680.6). Rebote continúa tras la caída del 11/05. Noticias de futuros del día no confirmables.
+- Catalizadores: sin noticia negativa nueva en JPM (nueva, stop 315.60 GTC) ni MRK. JPM reporta ~mediados de enero.
+- Ideas: ninguna (RECOM/target/earnings no confirmables en vivo -> fallo-cerrado).

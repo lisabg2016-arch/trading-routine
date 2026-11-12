@@ -62,3 +62,9 @@ Registro de cada operación. La rutina agrega una fila cuando compra o vende.
 - Contexto: SPY 749.93 (cierre IEX 11/10, -0.4%) vs SMA200 ~731.0 (ALCISTA, margen +2.6%), bajo SMA50 ~765; QQQ 674.82 bajo SMA200 ~681.4 (-1.0%). Sin noticias de futuros del día confirmables.
 - Equity $99,170 (+0.64% vs cierre previo $98,535), efectivo $10,317. SPY core 110.92 (-2.1%), MRK 34 @146.13 (+0.2%; stop GTC 134.50 vigente, única orden abierta). Sin noticia negativa nueva en MRK.
 - Ideas: ninguna (régimen frágil, QQQ bajo SMA200; RECOM/target/earnings no confirmables -> fallo-cerrado). Sin órdenes.
+
+## 2026-11-12 (pre-mercado)
+- Nueva posición detectada en Alpaca: JPM 14 @342.97 (abierta 11/11 por rutina de operación), stop GTC 315.60 (-8%) verificado. Nuevas esta semana: 1 de 3.
+- Contexto: SPY 759.80 (cierre IEX 11/11, +1.3%) vs SMA200 ~728.6 (ALCISTA, +4.3%), bajo SMA50 ~764.6; QQQ 690.40 (+2.3%) de nuevo SOBRE SMA200 ~680.6.
+- Equity $99,295 (-0.31% vs cierre previo), efectivo $5,515. SPY core -2.1%, MRK +1.7% (stop 134.50 GTC), JPM +0.6% (stop 315.60 GTC). Sin noticia negativa nueva en JPM/MRK. Próximos earnings JPM ~mediados ene.
+- Ideas: ninguna nueva (RECOM/target/earnings no confirmables en vivo -> fallo-cerrado). Sin órdenes.
