@@ -68,3 +68,8 @@ Registro de cada operación. La rutina agrega una fila cuando compra o vende.
 - Contexto: SPY 759.80 (cierre IEX 11/11, +1.3%) vs SMA200 ~728.6 (ALCISTA, +4.3%), bajo SMA50 ~764.6; QQQ 690.40 (+2.3%) de nuevo SOBRE SMA200 ~680.6.
 - Equity $99,295 (-0.31% vs cierre previo), efectivo $5,515. SPY core -2.1%, MRK +1.7% (stop 134.50 GTC), JPM +0.6% (stop 315.60 GTC). Sin noticia negativa nueva en JPM/MRK. Próximos earnings JPM ~mediados ene.
 - Ideas: ninguna nueva (RECOM/target/earnings no confirmables en vivo -> fallo-cerrado). Sin órdenes.
+
+## 2026-11-13 (pre-mercado)
+- Nueva posición detectada en Alpaca: CVX 22 @214.79 (fills 11/12 14:30-14:34 UTC), stop GTC 205.00 (-4.6%) verificado. Nuevas esta semana: 2 de 3.
+- Equity $99,647 (+0.32%), efectivo $790. SPY core -1.7%, MRK +1.1% (stop 134.50), JPM +0.5% (stop 315.60), CVX +0.9% (stop 205). Todos los stops GTC.
+- Sin órdenes en pre-mercado.

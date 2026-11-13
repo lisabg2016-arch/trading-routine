@@ -68,3 +68,10 @@ Notas de la rutina de pre-mercado: catalizadores, noticias, ideas de trade, y pr
 - Contexto: SPY 759.8 vs SMA200 728.6 (ALCISTA, margen +4.3%), aún bajo SMA50 764.6; QQQ 690.4 recuperó SMA200 (680.6). Rebote continúa tras la caída del 11/05. Noticias de futuros del día no confirmables.
 - Catalizadores: sin noticia negativa nueva en JPM (nueva, stop 315.60 GTC) ni MRK. JPM reporta ~mediados de enero.
 - Ideas: ninguna (RECOM/target/earnings no confirmables en vivo -> fallo-cerrado).
+
+## 2026-11-13 (pre-mercado)
+- Contexto: SPY 757.16 (cierre IEX 11/12, -0.3%) vs SMA200 731.6 (ALCISTA, +3.5%), bajo SMA50 764.8; QQQ 688.2 apenas sobre SMA200 682.0 (+0.9%). Futuros del día no confirmables por web.
+- Nueva posición CVX 22 @214.79 (11/12), stop GTC 205. Contexto CVX: beat Q3 (10/30, adj EPS 5.28 vs 4.86), target medio ~243 (StockAnalysis), consenso "Buy"; próximo earnings ~fin de enero. Ruido mixto: un downgrade a Hold (DZ Bank) y caída de petroleras tras resultado electoral (~11/04) — sin noticia negativa nueva hoy confirmada.
+- Sin noticia negativa nueva en JPM/MRK.
+- Caja ~$790: el libro está ~99% invertido (core ~84.5%). Nuevas entradas requerirían recortar core.
+- Ideas: ninguna (RECOM/earnings no confirmables en vivo con Finviz -> fallo-cerrado; además sin caja libre). Hoy viernes: toca Revisión Semanal.
