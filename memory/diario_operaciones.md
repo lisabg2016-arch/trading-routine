@@ -73,3 +73,7 @@ Registro de cada operación. La rutina agrega una fila cuando compra o vende.
 - Nueva posición detectada en Alpaca: CVX 22 @214.79 (fills 11/12 14:30-14:34 UTC), stop GTC 205.00 (-4.6%) verificado. Nuevas esta semana: 2 de 3.
 - Equity $99,647 (+0.32%), efectivo $790. SPY core -1.7%, MRK +1.1% (stop 134.50), JPM +0.5% (stop 315.60), CVX +0.9% (stop 205). Todos los stops GTC.
 - Sin órdenes en pre-mercado.
+
+## 2026-11-16 (pre-mercado)
+- Equity $98,751 (-0.43%), efectivo $790. SPY core -2.9%, MRK +2.1% (stop 134.50), JPM +1.0% (stop 315.60), CVX +2.5% (stop 205). Todos los stops GTC verificados.
+- Nueva semana: 0 de 3 nuevas. Sin órdenes en pre-mercado.

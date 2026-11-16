@@ -75,3 +75,8 @@ Notas de la rutina de pre-mercado: catalizadores, noticias, ideas de trade, y pr
 - Sin noticia negativa nueva en JPM/MRK.
 - Caja ~$790: el libro está ~99% invertido (core ~84.5%). Nuevas entradas requerirían recortar core.
 - Ideas: ninguna (RECOM/earnings no confirmables en vivo con Finviz -> fallo-cerrado; además sin caja libre). Hoy viernes: toca Revisión Semanal.
+
+## 2026-11-16 (pre-mercado)
+- Contexto: SPY 754.27 (cierre IEX 11/13, -0.4%) vs SMA200 729.3 (ALCISTA, +3.4%), bajo SMA50 764.1; QQQ 680.0 de nuevo apenas BAJO SMA200 681.2 (tech débil). Futuros/noticias del día no confirmables por web (búsqueda solo devuelve hasta ~11/11).
+- Posiciones: CVX 219.85 (sobre SMA50 215.5 y SMA200 193.9), JPM 346.3 (sobre SMA50 339.7), MRK 147.8 (sobre SMA50 146.0). Sin noticia negativa nueva encontrada en MRK/JPM/CVX. Earnings próximos: todos ~fin ene (lejos).
+- Ideas: ninguna (RECOM/target/earnings no confirmables en vivo -> fallo-cerrado; además sin caja libre, ~99% invertido).
