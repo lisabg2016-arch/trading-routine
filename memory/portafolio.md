@@ -3,12 +3,13 @@
 > La rutina actualiza este archivo en cada ejecución con datos reales de Alpaca (`GET /v2/account` y `/v2/positions`).
 
 ## Última actualización
-- Fecha/hora: 2026-11-16 pre-mercado. Equity $98,751 (-0.43% vs cierre previo $99,176), efectivo $790.
-- Cuenta: PAPER, ACTIVE. Posiciones: SPY core 110.92 @772.69 (-2.9%, ~84% del equity), MRK 34 @146.13 (+2.1%), JPM 14 @342.97 (+1.0%), CVX 22 @214.79 (+2.5%).
-- Órdenes abiertas: stop MRK 134.50 GTC, stop JPM 315.60 GTC, stop CVX 205.00 GTC.
-- Nuevas esta semana (semana del 11/16): 0 de 3.
-- Invertido ~99%. Efectivo casi nulo: una nueva entrada exigiría recortar core (no usar margen).
-- Régimen: ALCISTA (SPY 754.27 cierre 11/13 vs SMA200 729.3, +3.4%; bajo SMA50 764.1). QQQ 680.0 apenas BAJO SMA200 681.2 (-0.2%).
+- Fecha/hora: 2026-11-17 pre-mercado. Equity $97,305 (+0.03% vs cierre previo $97,274; -2.7% desde ~$100k inicial), efectivo $859.
+- Cuenta: PAPER, ACTIVE. Posiciones: SPY core 104.51 @772.49 (-4.1%, ~80% del equity), MRK 34 @146.13 (-1.5%), JPM 14 @342.97 (-1.7%), CVX 22 @214.79 (+1.1%), MSFT 9 @525.62 (-1.7%, NUEVA 11/16).
+- Órdenes abiertas: stop MRK 134.50 GTC, stop JPM 315.60 GTC, stop CVX 205.00 GTC, stop MSFT 483.60 GTC (-8%).
+- 11/16: compra MSFT 9 @525.62 y recorte core SPY 6.42 @747.82 para financiarla.
+- Nuevas esta semana (semana del 11/16): 1 de 3 (MSFT).
+- Invertido ~99%. Efectivo casi nulo.
+- Régimen: ALCISTA pero frágil (SPY 740.04 cierre IEX 11/16, -1.9%, vs SMA200 729.6, +1.4%; bajo SMA50 763.5). QQQ 661.8 BAJO SMA200 681.4 (-2.9%).
 
 ## 2026-10-29 (pre-mercado)
 - Contexto: SPY 772.28 vs SMA200 728 (ALCISTA), SMA50 768; QQQ 725.6 vs SMA200 679. Equity $100,443 (-0.13% vs cierre previo), efectivo $19,952.

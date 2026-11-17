@@ -80,3 +80,8 @@ Notas de la rutina de pre-mercado: catalizadores, noticias, ideas de trade, y pr
 - Contexto: SPY 754.27 (cierre IEX 11/13, -0.4%) vs SMA200 729.3 (ALCISTA, +3.4%), bajo SMA50 764.1; QQQ 680.0 de nuevo apenas BAJO SMA200 681.2 (tech débil). Futuros/noticias del día no confirmables por web (búsqueda solo devuelve hasta ~11/11).
 - Posiciones: CVX 219.85 (sobre SMA50 215.5 y SMA200 193.9), JPM 346.3 (sobre SMA50 339.7), MRK 147.8 (sobre SMA50 146.0). Sin noticia negativa nueva encontrada en MRK/JPM/CVX. Earnings próximos: todos ~fin ene (lejos).
 - Ideas: ninguna (RECOM/target/earnings no confirmables en vivo -> fallo-cerrado; además sin caja libre, ~99% invertido).
+
+## 2026-11-17 (pre-mercado)
+- Contexto: SPY 740.04 (cierre IEX 11/16, -1.9%) vs SMA200 729.6 (ALCISTA, margen solo +1.4%), bajo SMA50 763.5; QQQ 661.8 (-2.7%) BAJO SMA200 681.4 (-2.9%). Tech/IA siguen débiles. Si SPY cierra < ~729.6 -> vender core a efectivo.
+- Noticias posiciones: MSFT — caída global de Microsoft 365 (11/12-14, 74 países, no ciberataque); titular Alpaca 11/16 "class action lawsuit filed" (no confirmado en web). La entrada de MSFT el 11/16 se hizo con esta noticia negativa reciente -> posible roce con G17. No es ruptura de tesis por sí sola; el stop GTC 483.60 protege. JPM: caída de banca online por bug de software (11/16-17), operativo, vigilar. CVX: cerca de comprar ~$5B participación mayoritaria en Beacon Offshore (neutral/positivo). MRK: sin noticia negativa propia (noticias de Merck KGaA, otra empresa).
+- Ideas: ninguna (régimen frágil, QQQ bajo SMA200, sin caja libre, RECOM/target/earnings no confirmables en vivo -> fallo-cerrado).
