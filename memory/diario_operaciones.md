@@ -82,3 +82,7 @@ Registro de cada operación. La rutina agrega una fila cuando compra o vende.
 - Detectado en Alpaca: compra MSFT 9 @525.62 (11/16 14:33 UTC) + venta core SPY 6.42 @747.82 para financiarla. Stop MSFT GTC 483.60 (-8%) verificado. Nuevas esta semana: 1 de 3.
 - Equity $97,305 (+0.03%), efectivo $859. SPY core -4.1%, MRK -1.5% (stop 134.50), JPM -1.7% (stop 315.60), CVX +1.1% (stop 205), MSFT -1.7% (stop 483.60). Todos GTC.
 - Sin órdenes en pre-mercado.
+
+## 2026-11-18 (pre-mercado)
+- Sin fills desde 11/17. Equity $96,365 (+0.16%), efectivo $859. SPY core -4.9%, MRK -1.9% (stop 134.50), JPM -3.3% (stop 315.60), CVX -1.1% (stop 205), MSFT -3.7% (stop 483.60). Todos GTC verificados.
+- Sin órdenes en pre-mercado.
