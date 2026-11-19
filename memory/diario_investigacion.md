@@ -91,3 +91,8 @@ Notas de la rutina de pre-mercado: catalizadores, noticias, ideas de trade, y pr
 - ACCIÓN CLAVE para la Apertura/Cierre: si SPY cierra < SMA200 (~732) -> vender core SPY (~$76.8k) a efectivo según estrategia; no abrir nuevas.
 - Noticias posiciones: MRK — discontinúa programa BELLWAVE de nemtabrutinib (11/17, pipeline menor, negativo leve; no rompe tesis, stop protege); dividendo Q1 2027 anunciado. JPM — transición de CFO anunciada (11/17) + caída de banca online por bug (11/17); JPM 329.87 bajo SMA50 339.6, aún sobre SMA200 325.1; stop 315.60. MSFT — Ignite 2026, informe preliminar del outage de 365; 506.07 bajo SMA50 519.6. CVX — ex-dividendo hoy 11/18 (caída mecánica esperable), 216.2 sobre SMA50/200.
 - Ideas: ninguna (régimen al filo, QQQ bajo SMA200, sin caja libre, RECOM/target/earnings no confirmables en vivo -> fallo-cerrado).
+
+## 2026-11-19 (pre-mercado)
+- RÉGIMEN BAJISTA: SPY cerró 730.33 (IEX, 11/18, -0.3%) < SMA200 732.5. El core SPY se vendió a efectivo el 11/18 (~729.78), conforme a estrategia. QQQ 659.6 bajo SMA200 682.8. -> NO abrir nuevas (G11); solo gestionar.
+- Posiciones: CVX 205.89 cierre (-4.75% el 11/18: ex-dividendo $1.78 + debilidad del petróleo), última 205.24 vs stop GTC 205.00 -> salida casi segura en la apertura (posible gap por debajo). MRK 137.79 (-3.9% el 11/18; sin noticia material: retiro de consejero Glocer en mayo-2027 + BELLWAVE descontinuado 11/17), stop 134.50 a ~2%. JPM 324.13 ahora BAJO SMA200 325.2, nueva noticia de caídas generalizadas de banca online (11/19) + salida de ejecutiva (Allison Beer a Wells Fargo); stop 315.60. MSFT 508.5, sin noticias negativas (alianza con Intel); stop 483.60.
+- Ideas: ninguna (régimen bajista; además RECOM/target/earnings no confirmables en vivo -> fallo-cerrado).

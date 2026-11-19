@@ -86,3 +86,8 @@ Registro de cada operación. La rutina agrega una fila cuando compra o vende.
 ## 2026-11-18 (pre-mercado)
 - Sin fills desde 11/17. Equity $96,365 (+0.16%), efectivo $859. SPY core -4.9%, MRK -1.9% (stop 134.50), JPM -3.3% (stop 315.60), CVX -1.1% (stop 205), MSFT -3.7% (stop 483.60). Todos GTC verificados.
 - Sin órdenes en pre-mercado.
+
+## 2026-11-19 (pre-mercado)
+- Detectado en Alpaca: venta del core SPY 104.51 @~729.78 (11/18 19:46 UTC) por SPY < SMA200. Efectivo $77,124.
+- Equity $95,519 (+0.07%). MRK -6.0% (stop 134.50), JPM -4.7% (stop 315.60), CVX -4.4% (stop 205, a 0.1%), MSFT -2.0% (stop 483.60). Todos GTC verificados.
+- Sin órdenes en pre-mercado.
