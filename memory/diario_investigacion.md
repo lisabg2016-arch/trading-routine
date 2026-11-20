@@ -91,3 +91,8 @@ Notas de la rutina de pre-mercado: catalizadores, noticias, ideas de trade, y pr
 - ACCIÓN CLAVE para la Apertura/Cierre: si SPY cierra < SMA200 (~732) -> vender core SPY (~$76.8k) a efectivo según estrategia; no abrir nuevas.
 - Noticias posiciones: MRK — discontinúa programa BELLWAVE de nemtabrutinib (11/17, pipeline menor, negativo leve; no rompe tesis, stop protege); dividendo Q1 2027 anunciado. JPM — transición de CFO anunciada (11/17) + caída de banca online por bug (11/17); JPM 329.87 bajo SMA50 339.6, aún sobre SMA200 325.1; stop 315.60. MSFT — Ignite 2026, informe preliminar del outage de 365; 506.07 bajo SMA50 519.6. CVX — ex-dividendo hoy 11/18 (caída mecánica esperable), 216.2 sobre SMA50/200.
 - Ideas: ninguna (régimen al filo, QQQ bajo SMA200, sin caja libre, RECOM/target/earnings no confirmables en vivo -> fallo-cerrado).
+
+## 2026-11-20 (pre-mercado)
+- Contexto: SPY 715.84 (cierre IEX 11/19, -2.0%) BAJO SMA200 730.2 (-2.0%) y SMA50 761.5 -> régimen BAJISTA confirmado. QQQ 645.1 (-2.2%) bajo SMA200 682.0 (-5.4%). Serie de 5 sesiones a la baja (SPY 754 -> 716).
+- Noticias posiciones: JPM — "cyberattack on third-party vendors" + "widespread banking disruptions" (11/19), negativo operativo; 320.4 bajo SMA200 322.9 (tesis debilitándose, stop 315.60 a ~2%). MSFT — Ignite (alianza Salesforce, IA), neutral/positivo; 498.5 bajo SMA50. CVX — rutina (sísmica Grecia), 206.6 bajo SMA50, stop 205 muy cerca. ABBV — inversión $217M Puerto Rico + colaboración DISCO (positivo); 283.6 sobre SMA50/200. Earnings de todas ~fin ene/feb (lejos).
+- Ideas: ninguna (régimen bajista G11 -> no abrir nuevas). Solo gestionar con stops GTC; no mover stops a la baja.

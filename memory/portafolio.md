@@ -3,12 +3,13 @@
 > La rutina actualiza este archivo en cada ejecución con datos reales de Alpaca (`GET /v2/account` y `/v2/positions`).
 
 ## Última actualización
-- Fecha/hora: 2026-11-18 pre-mercado. Equity $96,365 (+0.16% vs cierre previo $96,208; -3.6% desde ~$100k inicial), efectivo $859.
-- Cuenta: PAPER, ACTIVE. Posiciones: SPY core 104.51 @772.49 (-4.9%, ~80% del equity), MRK 34 @146.13 (-1.9%), JPM 14 @342.97 (-3.3%), CVX 22 @214.79 (-1.1%), MSFT 9 @525.62 (-3.7%).
-- Órdenes abiertas: stop MRK 134.50 GTC, stop JPM 315.60 GTC, stop CVX 205.00 GTC, stop MSFT 483.60 GTC (-8%).
-- Sin fills desde 11/17. Nuevas esta semana (semana del 11/16): 1 de 3 (MSFT).
-- Invertido ~99%. Efectivo casi nulo.
-- Régimen: AL BORDE. SPY 732.41 cierre IEX 11/17 (-1.0%) vs SMA200 732.3 (+0.01%, prácticamente encima); bajo SMA50 763.2. QQQ 657.1 BAJO SMA200 682.6 (-3.7%). Si SPY cierra < SMA200 -> vender core a efectivo (rutina de operación).
+- Fecha/hora: 2026-11-20 pre-mercado. Equity $93,776 (-0.01% vs cierre previo $93,787; -6.2% desde ~$100k inicial), efectivo $75,740 (~81%).
+- Cuenta: PAPER, ACTIVE. Posiciones (libro activo, sin core): ABBV 16 @282.42 (+1.3%), CVX 22 @214.79 (-4.0%), JPM 14 @342.97 (-6.1%), MSFT 9 @525.62 (-6.6%).
+- Órdenes abiertas: stop ABBV 259.83 GTC, stop CVX 205.00 GTC (a ~0.5% del precio), stop JPM 315.60 GTC (~2%), stop MSFT 483.60 GTC (~1.5%).
+- Fills desde 11/18: 11/18 venta core SPY 104.51 @~729.8 (régimen). 11/19: compra ABBV 16 @282.42 + compra core SPYM 728 @~86.79 a la apertura; MRK salió por stop 34 @~134.45 (-8.0%); core SPYM vendido 728 @~84.82 al cierre (-2.3%, churn por régimen).
+- Nuevas semana del 11/16: 2 de 3 (MSFT, ABBV).
+- Régimen: BAJISTA. SPY 715.84 cierre IEX 11/19 (-2.0%) < SMA200 730.2 (-2.0%); QQQ 645.1 < SMA200 682.0 (-5.4%). Core en efectivo; NO abrir nuevas.
+- Nota: instrumento core aparece como SPYM en Alpaca (SPLG renombrado).
 
 ## 2026-10-29 (pre-mercado)
 - Contexto: SPY 772.28 vs SMA200 728 (ALCISTA), SMA50 768; QQQ 725.6 vs SMA200 679. Equity $100,443 (-0.13% vs cierre previo), efectivo $19,952.
