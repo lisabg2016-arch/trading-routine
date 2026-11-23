@@ -3,12 +3,12 @@
 > La rutina actualiza este archivo en cada ejecución con datos reales de Alpaca (`GET /v2/account` y `/v2/positions`).
 
 ## Última actualización
-- Fecha/hora: 2026-11-20 pre-mercado. Equity $93,776 (-0.01% vs cierre previo $93,787; -6.2% desde ~$100k inicial), efectivo $75,740 (~81%).
-- Cuenta: PAPER, ACTIVE. Posiciones (libro activo, sin core): ABBV 16 @282.42 (+1.3%), CVX 22 @214.79 (-4.0%), JPM 14 @342.97 (-6.1%), MSFT 9 @525.62 (-6.6%).
-- Órdenes abiertas: stop ABBV 259.83 GTC, stop CVX 205.00 GTC (a ~0.5% del precio), stop JPM 315.60 GTC (~2%), stop MSFT 483.60 GTC (~1.5%).
-- Fills desde 11/18: 11/18 venta core SPY 104.51 @~729.8 (régimen). 11/19: compra ABBV 16 @282.42 + compra core SPYM 728 @~86.79 a la apertura; MRK salió por stop 34 @~134.45 (-8.0%); core SPYM vendido 728 @~84.82 al cierre (-2.3%, churn por régimen).
-- Nuevas semana del 11/16: 2 de 3 (MSFT, ABBV).
-- Régimen: BAJISTA. SPY 715.84 cierre IEX 11/19 (-2.0%) < SMA200 730.2 (-2.0%); QQQ 645.1 < SMA200 682.0 (-5.4%). Core en efectivo; NO abrir nuevas.
+- Fecha/hora: 2026-11-23 pre-mercado (lunes). Equity $93,719 (+0.05% vs cierre previo $93,673; -6.3% desde ~$100k inicial), efectivo $84,510 (~90%).
+- Cuenta: PAPER, ACTIVE. Posiciones (libro activo, sin core): ABBV 16 @282.42 (+1.7%, 287.18), CVX 22 @214.79 (-2.3%, 209.75).
+- Órdenes abiertas: stop ABBV 277.00 GTC (subido desde 259.83; protege ~-1.9% vs entrada), stop CVX 205.00 GTC (~2.3% bajo precio).
+- Fills desde 11/20 pre-mercado: 11/20 JPM salió por stop 14 @~315.55 (-8.0%); 11/20 MSFT salió por stop 9 @483.59 (-8.0%).
+- Nuevas semana del 11/23: 0 de 3.
+- Régimen: BAJISTA. SPY 690.68 cierre IEX 11/20 (-3.5%) < SMA200 732.7 (-5.7%); QQQ 609.75 (-5.5%) < SMA200 683.0 (-10.7%). Core en efectivo; NO abrir nuevas.
 - Nota: instrumento core aparece como SPYM en Alpaca (SPLG renombrado).
 
 ## 2026-10-29 (pre-mercado)

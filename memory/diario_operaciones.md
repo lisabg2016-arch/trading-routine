@@ -91,3 +91,8 @@ Registro de cada operación. La rutina agrega una fila cuando compra o vende.
 - Fills detectados 11/18-19: venta core SPY (11/18 @~729.8); 11/19 compra ABBV 16 @282.42 (stop GTC 259.83) y recompra core SPYM 728 @~86.79 en la apertura, luego venta SPYM @~84.82 al cierre (-2.3%, ~-$1.4k: churn por régimen al filo — lección: con SPY a ±0.5% de SMA200 no recomprar el core en la apertura; exigir margen/confirmación). MRK salió por stop 11/19 (34 @~134.45, -8.0%).
 - Equity $93,776 (-0.01%), efectivo $75,740. ABBV +1.3%, CVX -4.0% (stop 205 a ~0.5%), JPM -6.1% (stop 315.60), MSFT -6.6% (stop 483.60). Todos GTC verificados.
 - Régimen BAJISTA (SPY < SMA200): sin nuevas. Sin órdenes en pre-mercado.
+
+## 2026-11-23 (pre-mercado)
+- Fills detectados 11/20: JPM salió por stop GTC (14 @~315.55, -8.0%, ~-$384); MSFT salió por stop GTC (9 @483.59, -8.0%, ~-$378). Los stops funcionaron según el plan.
+- Equity $93,719 (+0.05%), efectivo $84,510. ABBV +1.7% (stop GTC subido a 277.00), CVX -2.3% (stop GTC 205). Ambos GTC verificados.
+- Régimen BAJISTA (SPY -5.7% bajo SMA200): sin nuevas. Sin órdenes en pre-mercado.
