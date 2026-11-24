@@ -101,3 +101,9 @@ Notas de la rutina de pre-mercado: catalizadores, noticias, ideas de trade, y pr
 - Contexto: viernes 11/20 caída fuerte: SPY 690.68 (-3.5%), QQQ 609.75 (-5.5%); post-cierre SPY ~693.9, QQQ ~614.8. 6 sesiones a la baja (SPY 754 -> 691, ~-8.4%). SPY -5.7% bajo SMA200 732.7; QQQ -10.7% bajo SMA200 683. Régimen BAJISTA firme.
 - Noticias: NVDA — investigaciones (Congreso por ventas a China, fiscal general de California, 11/20), administración presiona por reinstalar a Huang como CEO (11/23). Tech/IA lideran la caída. CVX — 5 de 15 equipos de Ensign en Venezuela contratados a Chevron (neutral/positivo); 208.4 bajo SMA50 215.4, sobre SMA200 196.6. ABBV — presentará en Piper Sandler; 286.4 sobre SMA50 279/SMA200 242 (la más fuerte del libro). Earnings de ambas ~fin ene/feb (lejos).
 - Ideas: ninguna (G11 régimen bajista -> no abrir nuevas). Solo gestionar con stops GTC.
+
+## 2026-11-24 (pre-mercado)
+- Contexto: lunes 11/23 rebote fuerte: SPY 722.56 (+4.6%), QQQ 651.18 (+6.8%), tras 6 sesiones a la baja. SPY sigue -1.1% bajo SMA200 730.4 y bajo SMA50 759.3; QQQ -4.6% bajo SMA200 682.3. Régimen BAJISTA (aún). Web no devolvió la crónica del 11/23.
+- OJO régimen al filo: un día más como el de ayer pone SPY sobre SMA200. Lección 11/19: NO recomprar el core en la apertura con SPY a ±0.5-1% de la SMA200; exigir cierre(s) por encima con margen antes de reentrar.
+- Noticias: ABBV — FDA aprueba RINVOQ para vitíligo no segmentario (11/23 tarde, positivo) + elegible en compra nacional de anticuerpos de China; 288.33 sobre SMA50 278.8/SMA200 240.3, la más fuerte del libro. CVX — sin noticia nueva; 206.12 bajo SMA50 213.6, sobre SMA200 193.5; stop 205 a ~0.5-1% -> probable salida por stop si cede. Earnings de ambas ~fin ene/feb (lejos).
+- Ideas: ninguna (G11 régimen bajista -> no abrir nuevas). Solo gestionar con stops GTC.

@@ -96,3 +96,7 @@ Registro de cada operación. La rutina agrega una fila cuando compra o vende.
 - Fills detectados 11/20: JPM salió por stop GTC (14 @~315.55, -8.0%, ~-$384); MSFT salió por stop GTC (9 @483.59, -8.0%, ~-$378). Los stops funcionaron según el plan.
 - Equity $93,719 (+0.05%), efectivo $84,510. ABBV +1.7% (stop GTC subido a 277.00), CVX -2.3% (stop GTC 205). Ambos GTC verificados.
 - Régimen BAJISTA (SPY -5.7% bajo SMA200): sin nuevas. Sin órdenes en pre-mercado.
+
+## 2026-11-24 (pre-mercado)
+- Sin fills desde 11/23. Equity $93,737 (+0.08%), efectivo $84,510. ABBV +3.3% (stop GTC 277), CVX -3.5% (stop GTC 205, a ~1%). Ambos GTC verificados.
+- Régimen BAJISTA (SPY -1.1% bajo SMA200 tras rebote +4.6%): sin nuevas. Sin órdenes en pre-mercado.
