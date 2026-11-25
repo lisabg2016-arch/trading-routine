@@ -107,3 +107,8 @@ Notas de la rutina de pre-mercado: catalizadores, noticias, ideas de trade, y pr
 - OJO régimen al filo: un día más como el de ayer pone SPY sobre SMA200. Lección 11/19: NO recomprar el core en la apertura con SPY a ±0.5-1% de la SMA200; exigir cierre(s) por encima con margen antes de reentrar.
 - Noticias: ABBV — FDA aprueba RINVOQ para vitíligo no segmentario (11/23 tarde, positivo) + elegible en compra nacional de anticuerpos de China; 288.33 sobre SMA50 278.8/SMA200 240.3, la más fuerte del libro. CVX — sin noticia nueva; 206.12 bajo SMA50 213.6, sobre SMA200 193.5; stop 205 a ~0.5-1% -> probable salida por stop si cede. Earnings de ambas ~fin ene/feb (lejos).
 - Ideas: ninguna (G11 régimen bajista -> no abrir nuevas). Solo gestionar con stops GTC.
+
+## 2026-11-25 (pre-mercado)
+- Contexto: martes 11/24 SPY 718.91 (-0.5%), QQQ 638.12 (-2.0%, tech débil de nuevo). SPY -1.6% bajo SMA200 730.6 y bajo SMA50 758.6; QQQ -6.5% bajo SMA200 682.4. Régimen BAJISTA. Semana corta de Thanksgiving (jueves cerrado, viernes media sesión). Web no devolvió crónica del 11/24.
+- Posiciones: ABBV 300.34 (+4.2% el 11/24, máximos; sobre SMA50 279.6/SMA200 240.7), la más fuerte del libro; próximo earnings 3 feb 2027 (lejos); sin noticia negativa encontrada. CVX 208.74 bajo SMA50 213.5, sobre SMA200 193.6; sin noticia nueva; stop 205.
+- Ideas: ninguna (G11 régimen bajista -> no abrir nuevas). Solo gestionar con stops GTC; considerar seguir subiendo trailing de ABBV (nunca bajarlo).

@@ -3,12 +3,12 @@
 > La rutina actualiza este archivo en cada ejecución con datos reales de Alpaca (`GET /v2/account` y `/v2/positions`).
 
 ## Última actualización
-- Fecha/hora: 2026-11-24 pre-mercado (martes). Equity $93,737 (+0.08% vs cierre previo $93,661; -6.3% desde ~$100k inicial), efectivo $84,510 (~90%).
-- Cuenta: PAPER, ACTIVE. Posiciones (libro activo, sin core): ABBV 16 @282.42 (+3.3%, 291.81), CVX 22 @214.79 (-3.5%, 207.17).
-- Órdenes abiertas: stop ABBV 277.00 GTC, stop CVX 205.00 GTC (~1% bajo precio). Ambos verificados.
-- Fills desde 11/23 pre-mercado: ninguno.
+- Fecha/hora: 2026-11-25 pre-mercado (miércoles). Equity $93,906 (+0.00% vs cierre previo $93,906; -6.1% desde ~$100k inicial), efectivo $84,510 (~90%).
+- Cuenta: PAPER (PA3BMDAXVD5J), ACTIVE. Posiciones (libro activo, sin core): ABBV 16 @282.42 (+6.6%, 301.00), CVX 22 @214.79 (-3.1%, 208.21).
+- Órdenes abiertas: stop ABBV 279.50 GTC (subido desde 277), stop CVX 205.00 GTC. Ambos verificados.
+- Fills desde 11/24 pre-mercado: ninguno.
 - Nuevas semana del 11/23: 0 de 3.
-- Régimen: BAJISTA. SPY 722.56 cierre IEX 11/23 (+4.6% rebote) < SMA200 730.4 (-1.1%); QQQ 651.18 (+6.8%) < SMA200 682.3 (-4.6%). Core en efectivo; NO abrir nuevas.
+- Régimen: BAJISTA. SPY 718.91 cierre IEX 11/24 (-0.5%) < SMA200 730.6 (-1.6%); QQQ 638.12 (-2.0%) < SMA200 682.4 (-6.5%). Core en efectivo; NO abrir nuevas.
 - Nota: instrumento core aparece como SPYM en Alpaca (SPLG renombrado).
 
 ## 2026-10-29 (pre-mercado)
