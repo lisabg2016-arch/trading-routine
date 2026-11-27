@@ -100,3 +100,7 @@ Registro de cada operación. La rutina agrega una fila cuando compra o vende.
 ## 2026-11-24 (pre-mercado)
 - Sin fills desde 11/23. Equity $93,737 (+0.08%), efectivo $84,510. ABBV +3.3% (stop GTC 277), CVX -3.5% (stop GTC 205, a ~1%). Ambos GTC verificados.
 - Régimen BAJISTA (SPY -1.1% bajo SMA200 tras rebote +4.6%): sin nuevas. Sin órdenes en pre-mercado.
+
+## 2026-11-27 (pre-mercado)
+- Sin fills desde 11/24. Stop ABBV subido 279.5 -> 284.50 GTC el 11/25 (trailing). Equity $93,941 (+0.08%), efectivo $84,510. ABBV +4.2% (stop GTC 284.50), CVX ~0.0% (stop GTC 205). Ambos GTC verificados.
+- Régimen BAJISTA (SPY -1.9% bajo SMA200): sin nuevas. Sin órdenes en pre-mercado.
